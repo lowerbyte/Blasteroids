@@ -11,11 +11,12 @@ After that and closing my repository you have to compile it with linked librarie
 `gcc spaceship.c blast.c asteroid.c collision.c main.c -lm -lallegro -lallegro_primitives -lallegro_font -lallegro_ttf -Wall -Wextra -o blasteroids`
 
 Sample screenshots:
-![Screen one.](https://drive.google.com/file/d/1ibdsNdQdhiEFF3EAEcuNu2m3dJGOvYcK/view?usp=sharing)
 
-![Screen two.](https://drive.google.com/file/d/10KI2YHShm6nIQC5zHwQkeHzmtph7ax7J/view?usp=sharing)
+![Screen one.](/images/blasteroids_git.png)
 
-![Game over.](https://drive.google.com/file/d/1_Qv7DChpszHv3v4AjgWcMmf8-rViMRTz/view?usp=sharing)
+![Screen two.](/images/blasteroids2_git.png)
+
+![Game over.](/images/blasteroids3_git.png)
 
 Hope you will have fun with it!
 
